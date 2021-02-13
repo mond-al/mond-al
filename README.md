@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mond-al
+- 👀 I’m interested in android apps.
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to collaborate on toy project.
